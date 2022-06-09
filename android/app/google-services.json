@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088902183661",
+    "project_id": "attandance-9638a",
+    "storage_bucket": "attandance-9638a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088902183661:android:483d2843334895d933aae4",
+        "android_client_info": {
+          "package_name": "com.example.sa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088902183661-olur0ittqm4fe9ilf66jm6ggen2craod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlLNvhyn_MKjCOglfJyqYxUeoiLsID2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088902183661-olur0ittqm4fe9ilf66jm6ggen2craod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
